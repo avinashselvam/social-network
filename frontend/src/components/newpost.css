@@ -1,0 +1,26 @@
+.NewPost {
+    background-color: white;
+    border: 1px solid lightgray;
+}
+
+.NewPost textarea{
+    width: 96%;
+    margin: 2%;
+    border: none;
+}
+
+.NewPost .newpost-buttons * {
+    display: inline-block;
+}
+
+.NewPost .newpost-buttons input {
+    width: 0;
+}
+
+.NewPost .newpost-buttons label {
+    float: left;
+}
+
+.NewPost .newpost-buttons button {
+    float: right;
+}

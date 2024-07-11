@@ -12,6 +12,7 @@
 
 user
 post
+like
 comment
 connection
 
@@ -20,5 +21,6 @@ connection
 /auth POST
 /users PUT, PATCH, DELETE
 /posts PUT, DELETE
+/likes PUT, DELETE
 /comments PUT, DELETE
 /connections PUT, DELETE

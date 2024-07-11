@@ -1,0 +1,37 @@
+.Post {
+    background-color: white;
+    border: 1px solid lightgray;
+    margin: 8px 0;
+}
+
+.Post .post-userdetails {
+    padding: 8px;
+}
+
+.Post .post-userdetails .left {
+    display: inline-block;
+}
+
+.Post .post-userdetails .right {
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.Post .post-userdetails .right p {
+    margin: 0 8px;
+}
+
+.Post .post-userdetails img {
+    height: 72px;
+    width: 72px;
+}
+
+.Post .post-text {
+    padding: 8px;
+    margin: 0;
+}
+
+.Post .post-text p {
+    margin: 0;
+}

@@ -1,0 +1,16 @@
+.Feed {
+    margin: 0 12.5vw 0 22.5vw;
+    max-width: 1024px;
+    min-width: 512px;
+    display: flex;
+    flex-direction: row;
+}
+
+.Feed .posts {
+    flex: 2;
+}
+
+.Feed .PeopleYouMayKnow {
+    flex: 1;
+    border: 1px solid black;
+}
